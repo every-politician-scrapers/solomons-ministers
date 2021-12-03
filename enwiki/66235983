@@ -1,0 +1,121 @@
+{
+  "title": "Lanelle Tanangada",
+  "pageID": 66235983,
+  "categories": [
+    "Living people",
+    "1979 births",
+    "University of Waikato alumni",
+    "Government ministers of the Solomon Islands",
+    "Women government ministers of the Solomon Islands",
+    "Education ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lanelle Olandrea Tanangada (born 1 July 1979) is a Solomon Islands teacher and politician who has served as the country's Education Minister since April 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Solomon Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Education Minister"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lanelle Olandrea Tanangada"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1979",
+          "month": "07",
+          "day": "01",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lanelle Olandrea Tanangada"
+          },
+          "birth_date": {
+            "text": "July 1, 1979"
+          },
+          "office": {
+            "text": "Minister for Education",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for Education"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "29 April 2020"
+          },
+          "party": {
+            "text": "Kadere Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kadere Party"
+              }
+            ]
+          },
+          "constituency": {
+            "text": "Gizo/Kolombangara",
+            "links": [
+              {
+                "text": "Gizo/Kolombangara",
+                "type": "internal",
+                "page": "Gizo/Kolombangara constituency"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Solomon Islander"
+          },
+          "primeminister": {
+            "text": "Manasseh Sogavare",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manasseh Sogavare"
+              }
+            ]
+          },
+          "governor-general": {
+            "text": "David Vunagi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Vunagi"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
