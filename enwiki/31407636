@@ -203,53 +203,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.rnzi.com/pages/news.php?op=read&id=59808",
-          "title": "Solomons' electoral official rejects accusations of briberyy during by-election",
-          "date": "5 April 2011",
-          "work": "Radio New Zealand International",
-          "accessdate": "24 September 2011",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
