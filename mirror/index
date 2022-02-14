@@ -826,7 +826,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 </li>
 <li id="menu-item-1840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1840"><a href="https://solomons.gov.sb/articles/"><span>News</span></a></li>
 <li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://solomons.gov.sb/about-solomon-islands/"><span>About Solomon Islands</span></a></li>
-<li id="menu-item-3979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3979"><a href="https://solomons.gov.sb/ministry-of-health-medical-services/essential-services/learn-about-coronavirus/"><span>COVID-19 Updates</span></a></li>
+<li id="menu-item-3979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3979"><a href="https://solomons.gov.sb/ministry-of-health-medical-services/covid-19-updates/"><span>COVID-19 Updates</span></a></li>
 <li id="menu-item-1843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1843"><a><span>Ministries</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-1845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1845"><a href="https://solomons.gov.sb/office-of-the-prime-minister-and-cabinet/"><span>Office of the Prime Minister and Cabinet</span></a></li>
