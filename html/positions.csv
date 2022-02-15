@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q34518009,monarch of the Solomon Islands,Q685,,,,,,,,
-Q1840326,Governor-General of the Solomon Islands,,,,,1978-07-07,,,,Governor-General of Solomon Islands
+Q110915991,Governor-General of the Solomon Islands,,Q685,,Q1840326,1978-07-07,,,,
 Q1425954,Prime Minister of the Solomon Islands,Q685,Q685,,,1978-07-07,,,,Prime Minister of Solomon Islands
 Q109910431,Minister of Agriculture & Livestock,Q685,Q685,,,,,,,
 Q109910370,"Minister for Commerce, Industries, Labour and Immigration",Q685,Q685,,,,,,,
