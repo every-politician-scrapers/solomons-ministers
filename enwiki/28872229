@@ -56,6 +56,14 @@
           "template": "short description"
         },
         {
+          "country": "GBR",
+          "list": [
+            "GCMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
           "year": "1950",
           "month": "9",
           "day": "5",
@@ -73,29 +81,25 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency The Right Reverend",
+            "text": "His Excellency the Right Reverend Sir",
             "links": [
               {
                 "type": "internal",
                 "page": "His Excellency"
               },
               {
+                "text": "the Right Reverend",
                 "type": "internal",
-                "page": "The Right Reverend"
+                "page": "the Right Reverend"
+              },
+              {
+                "type": "internal",
+                "page": "Sir"
               }
             ]
           },
           "name": {
-            "text": "Sir David Vunagi"
-          },
-          "honorific-suffix": {
-            "text": "GCMG",
-            "links": [
-              {
-                "type": "internal",
-                "page": "GCMG"
-              }
-            ]
+            "text": "David Vunagi"
           },
           "office2": {
             "text": "Governor-General of Solomon Islands",
@@ -203,7 +207,7 @@
             ]
           },
           "alma_mater": {
-            "text": "University of the South Pacific (GrDip) St John's College, Auckland (BT) University of Papua New Guinea (MB) Vancouver School of Theology (MT)",
+            "text": "University of the South Pacific (GrDip)\nSt John's College, Auckland (BT)\nUniversity of Papua New Guinea (MB)\nVancouver School of Theology (MT)",
             "links": [
               {
                 "type": "internal",
