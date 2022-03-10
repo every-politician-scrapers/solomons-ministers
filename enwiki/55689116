@@ -1,97 +1,10 @@
 {
-  "title": "Bartholomew Parapolo",
-  "pageID": 55689116,
-  "categories": [
-    "Solomon Islands politicians",
-    "Government ministers of the Solomon Islands",
-    "1963 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bartholomew Parapolo (born 1963) is a politician of the Solomon Islands who serves as the Minister of Tourism and Culture.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Solomon Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bartholomew Parapolo"
-                ]
-              }
-            },
-            {
-              "text": "He previously held the position of Minister of Forestry & Research from 18 August, 2015 to 27 October, 2015."
-            },
-            {
-              "text": "In 2016 he was elected as the Paramount Chief of the Nggela Islands.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nggela Islands"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Bartholomew Parapolo"
-          },
-          "image": {
-            "text": "File:Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan.jpg"
-          },
-          "image_size": {
-            "text": "150px"
-          },
-          "alt": {
-            "text": "Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan"
-          },
-          "caption": {
-            "text": "Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manasseh Sogavare"
-              },
-              {
-                "type": "internal",
-                "page": "Taipei"
-              },
-              {
-                "type": "internal",
-                "page": "Taiwan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "🇸🇧 Solomon Islands",
-            "links": [
-              {
-                "text": "Solomon Islands",
-                "type": "internal",
-                "page": "solomon islands"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Forestry & Research"
-          },
-          "office2": {
-            "text": "Minister of Tourism and Culture"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Bartholomew Parapolo",
+  "image": "File:Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan.jpg",
+  "image_size": "150px",
+  "alt": "Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan",
+  "caption": "Bartholomew Parapolo poses for an official photo as part of the delegation led by Solomon Islands Prime Minister Manasseh Sogavare (26 September 2017) in Taipei, Taiwan",
+  "nationality": "🇸🇧 Solomon Islands",
+  "office1": "Minister of Forestry & Research",
+  "office2": "Minister of Tourism and Culture"
 }

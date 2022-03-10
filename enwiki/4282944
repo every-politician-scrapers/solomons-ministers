@@ -1,331 +1,36 @@
 {
-  "title": "Manasseh Sogavare",
-  "pageID": 4282944,
-  "categories": [
-    "1955 births",
-    "Leaders of the Opposition (Solomon Islands)",
-    "Living people",
-    "Members of the National Parliament of the Solomon Islands",
-    "Ownership, Unity and Responsibility Party politicians",
-    "People from Choiseul Province",
-    "People's Progressive Party (Solomon Islands) politicians",
-    "Prime Ministers of the Solomon Islands",
-    "Finance Ministers of the Solomon Islands",
-    "Solomon Islands Seventh-day Adventists",
-    "Solomon Islands Social Credit Party politicians",
-    "People from Oro Province"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Manasseh Damukana Sogavare (born 17 January 1955) is a Solomon Islands politician serving as the Prime Minister of Solomon Islands since 24 April 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Solomon Islands"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Solomon Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Manasseh Damukana Sogavare"
-                ]
-              }
-            },
-            {
-              "text": "He has previously held the role of Prime Minister between 2000 and 2001, between 2006 and 2007, and between 2014 and 2017."
-            },
-            {
-              "text": "Before becoming Prime Minister, Sogavare served in the National Parliament as Member for East Choiseul beginning in 1997.",
-              "links": [
-                {
-                  "text": "National Parliament",
-                  "type": "internal",
-                  "page": "National Parliament of Solomon Islands"
-                },
-                {
-                  "text": "East Choiseul",
-                  "type": "internal",
-                  "page": "East Choiseul constituency"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Prime Minister of Solomon Islands (2019–present)",
-          "template": "short description"
-        },
-        {
-          "date": "April 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1955",
-          "month": "1",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Manasseh Sogavare"
-          },
-          "image": {
-            "text": "Манассе Согаваре (28532489095).jpg"
-          },
-          "office": {
-            "text": "Prime Minister of Solomon Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Solomon Islands"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general": {
-            "text": "Frank Kabui\nDavid Vunagi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Kabui"
-              },
-              {
-                "type": "internal",
-                "page": "David Vunagi"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Manasseh Maelanga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manasseh Maelanga"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 April 2019"
-          },
-          "predecessor": {
-            "text": "Rick Houenipwela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rick Houenipwela"
-              }
-            ]
-          },
-          "monarch1": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general1": {
-            "text": "Frank Kabui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Kabui"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 December 2014"
-          },
-          "term_end1": {
-            "text": "15 November 2017"
-          },
-          "predecessor1": {
-            "text": "Gordon Darcy Lilo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gordon Darcy Lilo"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Rick Houenipwela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rick Houenipwela"
-              }
-            ]
-          },
-          "monarch2": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general2": {
-            "text": "Nathaniel Waena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nathaniel Waena"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 May 2006"
-          },
-          "term_end2": {
-            "text": "20 December 2007"
-          },
-          "predecessor2": {
-            "text": "Snyder Rini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Snyder Rini"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Derek Sikua",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Derek Sikua"
-              }
-            ]
-          },
-          "monarch3": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general3": {
-            "text": "John Lapli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Lapli"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 June 2000"
-          },
-          "term_end3": {
-            "text": "17 December 2001"
-          },
-          "predecessor3": {
-            "text": "Bartholomew Ulufa'alu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bartholomew Ulufa'alu"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Allan Kemakeza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Allan Kemakeza"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Parliament\nfor East Choiseul",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "National Parliament of the Solomon Islands"
-              },
-              {
-                "text": "East Choiseul",
-                "type": "internal",
-                "page": "East Choiseul constituency"
-              }
-            ]
-          },
-          "termstart4": {
-            "text": "1997",
-            "number": 1997
-          },
-          "predecessor4": {
-            "text": "Allan Qurusu"
-          },
-          "birth_date": {
-            "text": "January 17, 1955"
-          },
-          "birth_place": {
-            "text": "Popondetta, Northern Province, Papua New Guinea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Popondetta"
-              },
-              {
-                "text": "Northern Province",
-                "type": "internal",
-                "page": "Oro Province"
-              },
-              {
-                "type": "internal",
-                "page": "Papua New Guinea"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Emmy Sogavare"
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Manasseh Sogavare in 2016"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Manasseh Sogavare",
+  "image": "Манассе Согаваре (28532489095).jpg",
+  "office": "Prime Minister of Solomon Islands",
+  "monarch": "Elizabeth II",
+  "governor_general": "Frank Kabui\nDavid Vunagi",
+  "deputy": "Manasseh Maelanga",
+  "term_start": "24 April 2019",
+  "predecessor": "Rick Houenipwela",
+  "monarch1": "Elizabeth II",
+  "governor_general1": "Frank Kabui",
+  "term_start1": "9 December 2014",
+  "term_end1": "15 November 2017",
+  "predecessor1": "Gordon Darcy Lilo",
+  "successor1": "Rick Houenipwela",
+  "monarch2": "Elizabeth II",
+  "governor_general2": "Nathaniel Waena",
+  "term_start2": "4 May 2006",
+  "term_end2": "20 December 2007",
+  "predecessor2": "Snyder Rini",
+  "successor2": "Derek Sikua",
+  "monarch3": "Elizabeth II",
+  "governor_general3": "John Lapli",
+  "term_start3": "30 June 2000",
+  "term_end3": "17 December 2001",
+  "predecessor3": "Bartholomew Ulufa'alu",
+  "successor3": "Allan Kemakeza",
+  "office4": "Member of Parliament\nfor East Choiseul",
+  "termstart4": "1997",
+  "predecessor4": "Allan Qurusu",
+  "birth_date": "January 17, 1955",
+  "birth_place": "Popondetta, Northern Province, Papua New Guinea",
+  "spouse": "Emmy Sogavare",
+  "party": "Independent",
+  "caption": "Manasseh Sogavare in 2016"
 }
