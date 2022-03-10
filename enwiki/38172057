@@ -1,165 +1,20 @@
 {
-  "title": "Dickson Mua",
-  "pageID": 38172057,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Members of the National Parliament of the Solomon Islands",
-    "People from the Central Province (Solomon Islands)",
-    "Government ministers of the Solomon Islands"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dickson Mua Panakitasi, primarily known as Dickson Mua (born 4 November 1972 ), is a Solomon Islands politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Solomon Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dickson Mua Panakitasi",
-                  "Dickson Mua"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1972",
-          "month": "11",
-          "day": "4",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Right Honourable"
-          },
-          "name": {
-            "text": "Dickson Mua"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister for Forestry"
-          },
-          "primeminister": {
-            "text": "Danny Philip (until 16 November 2011) ;\nthen Gordon Darcy Lilo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Danny Philip"
-              },
-              {
-                "type": "internal",
-                "page": "Gordon Darcy Lilo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 October 2011"
-          },
-          "predecessor": {
-            "text": "Bradley Tovosia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bradley Tovosia"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Women, Youth, Children and Family Affairs"
-          },
-          "term_start2": {
-            "text": "18 April 2011"
-          },
-          "term_end2": {
-            "text": "28 October 2011"
-          },
-          "primeminister2": {
-            "text": "Danny Philip",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Danny Philip"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Joseph Onika",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Onika"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Peter Tom",
-            "links": [
-              {
-                "text": "Peter Tom",
-                "type": "internal",
-                "page": "Peter Tom (politician)"
-              }
-            ]
-          },
-          "constituency_mp5": {
-            "text": "Savo-Russels",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Savo-Russels"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "4 August 2010"
-          },
-          "predecessor5": {
-            "text": "Sir Allan Kemakeza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Allan Kemakeza"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 4, 1972"
-          },
-          "party": {
-            "text": "OUR Party",
-            "links": [
-              {
-                "text": "OUR Party",
-                "type": "internal",
-                "page": "Ownership, Unity and Responsibility Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Right Honourable",
+  "name": "Dickson Mua",
+  "honorific-suffix": "MP",
+  "office": "Minister for Forestry",
+  "primeminister": "Danny Philip (until 16 November 2011) ;\nthen Gordon Darcy Lilo",
+  "term_start": "28 October 2011",
+  "predecessor": "Bradley Tovosia",
+  "office2": "Minister for Women, Youth, Children and Family Affairs",
+  "term_start2": "18 April 2011",
+  "term_end2": "28 October 2011",
+  "primeminister2": "Danny Philip",
+  "predecessor2": "Joseph Onika",
+  "successor2": "Peter Tom",
+  "constituency_mp5": "Savo-Russels",
+  "term_start5": "4 August 2010",
+  "predecessor5": "Sir Allan Kemakeza",
+  "birth_date": "November 4, 1972",
+  "party": "OUR Party"
 }

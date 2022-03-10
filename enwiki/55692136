@@ -1,117 +1,13 @@
 {
-  "title": "Freda Soria Comua",
-  "pageID": 55692136,
-  "categories": [
-    "Year of birth missing (living people)",
-    "Living people",
-    "Government ministers of the Solomon Islands",
-    "Women government ministers of the Solomon Islands",
-    "21st-century women politicians",
-    "Members of the National Parliament of the Solomon Islands"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Freda Tuki Soriocomua (usually referred to as Freda Soria Comua) is a politician of Solomon Islands who served as Minister of Rural Development from 15 December 2015 to 18 August 2015 and subsequently as Minister of Women, Youth, and Children's Affairs from 18 August 2015 to date.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Solomon Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Freda Tuki Soriocomua",
-                  "Freda Soria Comua"
-                ]
-              }
-            },
-            {
-              "text": "She is a Member of Parliament representing the Temotu Vatud constituency.",
-              "links": [
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "type": "internal",
-                  "page": "Temotu Vatud constituency"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Freda Soria Comua"
-          },
-          "image": {
-            "text": "File:11.02 總統向索羅門群島國會議員握手致意，包括反對黨黨主席馬內雷（Jeremiah Manele）、獨立派領袖席庫瓦（Derek Sikua）及前副總理馬朗嘉（Maelanga）等均出席 (37397295234).jpg"
-          },
-          "caption": {
-            "text": "Comua (left) shakes hand with the President of Republic of China (Taiwan), Tsai Ing-wen inside the House of Parliament of the National Parliament of the Solomon Islands on 11 November 2017.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Republic of China (Taiwan)"
-              },
-              {
-                "type": "internal",
-                "page": "Tsai Ing-wen"
-              },
-              {
-                "type": "internal",
-                "page": "National Parliament of the Solomon Islands"
-              }
-            ]
-          },
-          "alt": {
-            "text": "Comua (left) shakes hand with the President of Republic of China (Taiwan), Tsai Ing-wen inside the House of Parliament of the National Parliament of the Solomon Islands on 11 November 2017."
-          },
-          "nationality": {
-            "text": "🇸🇧 Solomon Islands",
-            "links": [
-              {
-                "text": "Solomon Islands",
-                "type": "internal",
-                "page": "solomon islands"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Rural Development"
-          },
-          "term_start1": {
-            "text": "15 December 2015"
-          },
-          "term_end1": {
-            "text": "18 August 2015"
-          },
-          "office2": {
-            "text": "Minister of Women, Youth, and Children's Affairs"
-          },
-          "term_start2": {
-            "text": "18 August 2015"
-          },
-          "party": {
-            "text": "Kadere Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kadere Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Freda Soria Comua",
+  "image": "File:11.02 總統向索羅門群島國會議員握手致意，包括反對黨黨主席馬內雷（Jeremiah Manele）、獨立派領袖席庫瓦（Derek Sikua）及前副總理馬朗嘉（Maelanga）等均出席 (37397295234).jpg",
+  "caption": "Comua (left) shakes hand with the President of Republic of China (Taiwan), Tsai Ing-wen inside the House of Parliament of the National Parliament of the Solomon Islands on 11 November 2017.",
+  "alt": "Comua (left) shakes hand with the President of Republic of China (Taiwan), Tsai Ing-wen inside the House of Parliament of the National Parliament of the Solomon Islands on 11 November 2017.",
+  "nationality": "🇸🇧 Solomon Islands",
+  "office1": "Minister of Rural Development",
+  "term_start1": "15 December 2015",
+  "term_end1": "18 August 2015",
+  "office2": "Minister of Women, Youth, and Children's Affairs",
+  "term_start2": "18 August 2015",
+  "party": "Kadere Party"
 }
