@@ -1,14 +1,14 @@
 id,name,relationship,relative,relativename
-Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
-Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
-Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
-Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
-Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
-Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
-Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
-Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
-Q9682,Elizabeth II,father,Q280856,George VI
-Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
-Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
-Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Q109910928,Titus Mokofi Fika,sibling,Q7599597,
+Q16588782,Johnley Hatimoana,spouse,Q109074073,
+Q59096666,Jimson Tanangada,spouse,Q59125182,
+Q59125182,Lanelle Tanangada,spouse,Q59096666,
+Q7599597,Stanley Festus Sofu,sibling,Q109910928,
+Q9682,Elizabeth II,child,Q151754,
+Q9682,Elizabeth II,child,Q153330,
+Q9682,Elizabeth II,child,Q154920,
+Q9682,Elizabeth II,child,Q43274,
+Q9682,Elizabeth II,father,Q280856,
+Q9682,Elizabeth II,mother,Q10633,
+Q9682,Elizabeth II,sibling,Q153815,
+Q9682,Elizabeth II,spouse,Q80976,
