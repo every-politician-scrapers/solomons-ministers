@@ -9,7 +9,7 @@ class Member < Scraped::HTML
     binding.pry if fullname.to_s.empty?
     MemberList::Member::Name.new(
       full:     fullname,
-      prefixes: %w[Hon.]
+      prefixes: %w[Minister Hon.]
     ).short
   end
 
