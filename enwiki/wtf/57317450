@@ -1,0 +1,91 @@
+{
+  "title": "Anthony Veke",
+  "pageID": 57317450,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Solomon Islands politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anthony Veke (born c. 1977) is the premier of Guadalcanal Province of the Solomon Islands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guadalcanal Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Solomon Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anthony Veke"
+                ]
+              }
+            },
+            {
+              "text": "He succeeded Bartholomew Vavanga following a no-confidence vote in 2016; he was elected by the Provincial assembly in a vote of twelve to nine (he ran against Rolland Seleso).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bartholomew Vavanga"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nytimes.com/2018/07/21/world/asia/china-australia-guadalcanal-solomon-islands.html",
+          "title": "A New Battle for Guadalcanal, This Time With China",
+          "last": "Cave",
+          "first": "Damien",
+          "date": "July 21, 2018",
+          "work": "The New York Times",
+          "access-date": "2018-08-22",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://solomontodaypost.wordpress.com/2016/03/30/veke-elected-as-gp-new-premier/",
+          "title": "Veke is back as GP new premier",
+          "date": "30 March 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.pireport.org/articles/2016/03/30/solomon-islands-guadalcanal-province-has-new-premier",
+          "title": "Solomon Islands Guadalcanal Province Has New Premier",
+          "date": "March 30, 2016",
+          "website": "Pacific Islands Report",
+          "language": "en",
+          "access-date": "2018-08-22",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "solomons-politician-stub"
+        }
+      ]
+    }
+  ]
+}
