@@ -1,0 +1,60 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Savo-Russels"
+      ],
+      "stated_as": "Savo-Russels"
+    },
+    "P580": "2010-08-04",
+    "P1365": {
+      "links": [
+        "Allan Kemakeza"
+      ],
+      "stated_as": "Sir Allan Kemakeza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Women, Youth, Children and Family Affairs"
+    },
+    "P580": "2011-04-18",
+    "P1365": {
+      "links": [
+        "Joseph Onika"
+      ],
+      "stated_as": "Joseph Onika"
+    },
+    "P582": "2011-10-28",
+    "P1366": {
+      "links": [
+        "Peter Tom (politician)"
+      ],
+      "stated_as": "Peter Tom"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Forestry"
+    },
+    "P580": "2011-10-28",
+    "P1365": {
+      "links": [
+        "Bradley Tovosia"
+      ],
+      "stated_as": "Bradley Tovosia"
+    }
+  }
+]

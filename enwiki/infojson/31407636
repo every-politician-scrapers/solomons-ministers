@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Shortlands (constituency)"
+      ],
+      "stated_as": "Shortlands"
+    },
+    "P580": "2011-03-30",
+    "P1365": {
+      "links": [
+        "Steve Laore"
+      ],
+      "stated_as": "Steve Laore"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, National Security and Correctional Services"
+    },
+    "P580": "2012-10-22",
+    "P1365": {
+      "links": [
+        "David Tome"
+      ],
+      "stated_as": "David Tome"
+    }
+  }
+]

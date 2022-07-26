@@ -1,0 +1,114 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "East Guadalcanal constituency"
+      ],
+      "stated_as": "East Guadalcanal"
+    },
+    "P580": "2010-08-04",
+    "P1365": {
+      "links": [
+        "Johnson Koli"
+      ],
+      "stated_as": "Johnson Koli"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Provincial Government and Institutional Strengthening"
+    },
+    "P580": "2010-08-27",
+    "P582": "2011-01-22"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Forestry"
+    },
+    "P580": "2011-01-22",
+    "P1365": {
+      "links": [
+        "Douglas Ete"
+      ],
+      "stated_as": "Douglas Ete"
+    },
+    "P582": "2011-11-21",
+    "P1366": {
+      "links": [
+        "Dickson Mua"
+      ],
+      "stated_as": "Dickson Mua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Fisheries and Marine Resources"
+    },
+    "P580": "2011-11-21",
+    "P1365": {
+      "links": [
+        "Bodo Dettke"
+      ],
+      "stated_as": "Bodo Dettke"
+    },
+    "P582": "2012-03-01",
+    "P1366": {
+      "links": [
+        "Alfred Ghiro"
+      ],
+      "stated_as": "Alfred Ghiro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Service"
+    },
+    "P580": "2012-03-01",
+    "P1365": {
+      "links": [
+        "Alfred Ghiro"
+      ],
+      "stated_as": "Alfred Ghiro"
+    },
+    "P582": "2012-10-22",
+    "P1366": {
+      "links": [
+        "Stanley Sofu"
+      ],
+      "stated_as": "Stanley Sofu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for the Environment and Conservation"
+    },
+    "P580": "2012-10-22",
+    "P1365": {
+      "links": [
+        "John Moffat Fugui"
+      ],
+      "stated_as": "John Moffat Fugui"
+    }
+  }
+]

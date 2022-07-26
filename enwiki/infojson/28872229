@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Archbishop of Melanesia"
+      ],
+      "stated_as": "Archbishop of Melanesia\nBishop of Central Melanesia"
+    },
+    "P580": "2009",
+    "P1365": {
+      "links": [
+        "Ellison Pogo"
+      ],
+      "stated_as": "Sir Ellison Pogo"
+    },
+    "P582": "2015",
+    "P1366": {
+      "links": [
+        "George Takeli"
+      ],
+      "stated_as": "George Takeli"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor-General of Solomon Islands"
+      ],
+      "stated_as": "Governor-General of Solomon Islands"
+    },
+    "P580": "2019-07-07",
+    "P1365": {
+      "links": [
+        "Frank Kabui"
+      ],
+      "stated_as": "Sir Frank Kabui"
+    }
+  }
+]

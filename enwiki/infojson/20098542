@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "East Kwaio constituency"
+      ],
+      "stated_as": "East Kwaio"
+    },
+    "P580": "2006-04-05",
+    "P1365": {
+      "links": [
+        "Alfred Solomon Sasako"
+      ],
+      "stated_as": "Alfred Solomon Sasako"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure and Development"
+    },
+    "P580": "2006-05-05",
+    "P582": "2007-11-10"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure and Development"
+    },
+    "P580": "2007-12-21",
+    "P582": "2010-08-27",
+    "P1366": {
+      "links": [
+        "Jackson Fiulaua"
+      ],
+      "stated_as": "Jackson Fiulaua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Service"
+    },
+    "P580": "2010-12-08",
+    "P1365": {
+      "links": [
+        "Douglas Ete"
+      ],
+      "stated_as": "Douglas Ete"
+    },
+    "P582": "2011-01-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "himself, after vacancy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Service"
+    },
+    "P580": "2011-02-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself, prior to vacancy"
+    },
+    "P582": "2011-04-18",
+    "P1366": {
+      "links": [
+        "Ricky Houeniopwela"
+      ],
+      "stated_as": "Ricky Houeniopwela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Service"
+    },
+    "P580": "2012-10-22",
+    "P1365": {
+      "links": [
+        "Bradley Tovosia"
+      ],
+      "stated_as": "Bradley Tovosia"
+    }
+  }
+]
