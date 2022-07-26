@@ -1,0 +1,91 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Central Guadalcanal constituency"
+      ],
+      "stated_as": "Central Guadalcanal"
+    },
+    "P580": "2006-04-05",
+    "P1365": {
+      "links": [
+        "Walton Naezon"
+      ],
+      "stated_as": "Walton Naezon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Provincial Government and Constituency Development"
+    },
+    "P580": "2006-04-21",
+    "P582": "2006-05-04"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Commerce, Industries and Employment"
+    },
+    "P580": "2006-08-09",
+    "P582": "2007-12-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Independent Members"
+      ],
+      "stated_as": "Leader of the Independent Members"
+    },
+    "P580": "2008-01",
+    "P582": "2008-09-25"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Foreign Affairs and Trade Relations"
+    },
+    "P580": "2010-08-27",
+    "P582": "2012-02-09",
+    "P1366": {
+      "links": [
+        "Clay Forau Soalaoi"
+      ],
+      "stated_as": "Clay Forau Soalaoi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, National Security and Correctional Services"
+    },
+    "P580": "2014-12-23",
+    "P1365": {
+      "links": [
+        "Chris Laore"
+      ],
+      "stated_as": "Chris Laore"
+    },
+    "P582": "2017-11-24",
+    "P1366": {
+      "links": [
+        "Moses Garu"
+      ],
+      "stated_as": "Moses Garu"
+    }
+  }
+]
