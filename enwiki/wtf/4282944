@@ -24,16 +24,16 @@
         {
           "sentences": [
             {
-              "text": "Manasseh Damukana Sogavare (born 17 January 1955) is a Solomon Islands politician serving as the Prime Minister of Solomon Islands since 24 April 2019.",
+              "text": "Manasseh Damukana Sogavare (born 17 January 1955) is the sixth and current Prime Minister of Solomon Islands, serving since 24 April 2019.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Solomon Islands"
-                },
                 {
                   "text": "Prime Minister",
                   "type": "internal",
                   "page": "Prime Minister of Solomon Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Solomon Islands"
                 }
               ],
               "formatting": {
@@ -43,10 +43,10 @@
               }
             },
             {
-              "text": "He has previously held the role of Prime Minister between 2000 and 2001, between 2006 and 2007, and between 2014 and 2017."
+              "text": "He previously held the office in 2000–2001, 2006—2007 and 2014–2017; in all he has served over nine years as prime minister."
             },
             {
-              "text": "Before becoming Prime Minister, Sogavare served in the National Parliament as Member for East Choiseul beginning in 1997.",
+              "text": "Before becoming prime minister, Sogavare served in the National Parliament representing East Choiseul since 1997.",
               "links": [
                 {
                   "text": "National Parliament",
@@ -387,9 +387,6 @@
             },
             {
               "text": "Later in life, Manasseh and his older brother Jacob moved to the Solomon Islands."
-            },
-            {
-              "text": "‘Manasseh’ is a Hebrew name from the Old Testament of the Bible."
             }
           ]
         }
