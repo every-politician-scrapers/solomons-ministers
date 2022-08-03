@@ -1,0 +1,158 @@
+{
+  "title": "Manasseh Maelanga",
+  "pageID": 20098266,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Deputy Prime Ministers of the Solomon Islands",
+    "Members of the National Parliament of the Solomon Islands",
+    "People from Malaita Province",
+    "Government ministers of the Solomon Islands"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manasseh Maelanga (born March 25, 1970) is a member of the National Parliament of the Solomon Islands.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Parliament of the Solomon Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Manasseh Maelanga"
+                ]
+              }
+            },
+            {
+              "text": "He represents East Malaita constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East Malaita constituency"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2009, he was named Minister for Provincial Government and Institutional Strengthening in Prime Minister Derek Sikua's government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Derek Sikua"
+                }
+              ]
+            },
+            {
+              "text": "Following the 2010 general election, he remained in Cabinet, under new Prime Minister Danny Philip, as Deputy Prime Minister and Minister of Home Affairs.",
+              "links": [
+                {
+                  "text": "2010 general election",
+                  "type": "internal",
+                  "page": "2010 Solomon Islands general election"
+                },
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Solomon Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Danny Philip"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 17 December 2014, he has served as Leader of the Independent Members in Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leader of the Independent Members"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Manasseh_Maelanga_2010.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Manasseh_Maelanga_2010.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Manasseh_Maelanga_2010.jpg",
+          "caption": "Maelanga in 2010",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "solomons-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Member page at Parliament website",
+            "links": [
+              {
+                "text": "Member page at Parliament website",
+                "type": "external",
+                "site": "http://www.parliament.gov.sb/index.php?q=node/347"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
